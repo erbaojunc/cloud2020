@@ -3,9 +3,14 @@
 
 # 技术选型：
 技术   版本
-cloud Hoxton< br >
-boot 2.2.2.RELEASE< br >
-cloud alibaba 2.1.0.RELEASE< br >
-java 1.8< br >
-Maven 3.5.2< br >
-Mysql 5.7及以上< br >
+cloud Hoxton  
+
+boot 2.2.2.RELEASE  
+
+cloud alibaba 2.1.0.RELEASE  
+
+java 1.8  
+
+Maven 3.5.2  
+
+Mysql 5.7及以上  
